@@ -1,1 +1,56 @@
-/* Write your CSS here! */
+div {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8 px;
+    margin-right: 8 px;
+    
+}
+#mainHeading {
+    color: red;
+}
+#firstname {
+    
+    color: lightcoral;
+  }
+
+#testP {
+    color: green;
+}
+
+#funParagraph {
+    color: green; 
+}
+
+h6 {
+    margin-top: 5px;
+    
+}
+body {
+    margin: 8px;
+    display: block;
+}
+
+
+li.hometown1 {
+    color:  green;
+}
+  
+ 
+
+
+img {
+    padding: 0px;
+    border: 5px solid;
+    color: indigo;
+    
+  }
+
+footer {
+    
+    color: lightseagreen;
+    font-size: 15px;
+    margin-right: 35%;
+    margin-left: 10px;
+} 
+  
+
